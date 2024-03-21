@@ -1,0 +1,58 @@
+﻿
+.tabl {
+	font-size: 40px;
+}
+.lang {
+	border-color: #8B4513;
+	border-style: double;
+	width: 100%;
+}
+body {
+	color: #8B4513;
+}
+.greet {
+	font-size: 30px;
+	text-align: justify;
+	
+}
+.opros {
+	font-size: 30px;
+	text-align: center;
+}
+a {
+	color: #8B4513;
+	text-decoration: underline;
+}
+a:hover, a:focus {
+	text-decoration: none;
+	color: burlywood;
+}
+.photo {
+	text-align: center;
+}
+
+.image_con
+{
+    width: 100px;
+}
+
+.podcherkivanie_pri_navedenii
+{
+    text-decoration: none;
+    transition: .4s;
+    background-image: linear-gradient(black,black);
+    background-size: 0% 2px;
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
+}
+
+.podcherkivanie_pri_navedenii:hover
+{
+    background-size: 100% 2px;
+    background-image:  linear-gradient(burlywood, burlywood);
+}
+
+.td_con
+{
+    width: 100px;
+}
